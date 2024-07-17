@@ -21,6 +21,8 @@ The dataset used in this analysis includes:
 * Center details including city, region, and operational area
 * Promotional indicators such as email promotions and homepage features
 
+[seasonality](https://github.com/tildahh/food-demand-forecasting/blob/main/images/seasonality_cuisine.png)
+
 #### Methodology
 1. Data Preprocessing: Cleaning and preparing the data for modeling, including feature engineering and handling categorical variables.
 2. Model Training and Validation: Splitting the data into training, validation, and test sets. Evaluating multiple machine learning models using RMSLE as the performance metric.
@@ -39,7 +41,7 @@ Further Analysis: Conduct deeper analysis on other influential features to uncov
 
 #### Outline of project
 
-- [Link to notebook 1]()
+- [Link to notebook](https://github.com/tildahh/food-demand-forecasting/blob/main/food_demand_forecasting.ipynb)
 
 ##### Contact and Further Information
 - Email: sara.orona@outlook.com
