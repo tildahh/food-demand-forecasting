@@ -21,7 +21,7 @@ The dataset used in this analysis includes:
 * Center details including city, region, and operational area
 * Promotional indicators such as email promotions and homepage features
 
-[seasonality](https://github.com/tildahh/food-demand-forecasting/blob/main/images/seasonality_cuisine.png)
+![seasonality](https://github.com/tildahh/food-demand-forecasting/blob/main/images/seasonality_cuisine.png)
 
 #### Methodology
 1. Data Preprocessing: Cleaning and preparing the data for modeling, including feature engineering and handling categorical variables.
