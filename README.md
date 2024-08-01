@@ -3,7 +3,7 @@
 **Sara Orona**
 ![Header](https://github.com/tildahh/food-demand-forecasting/blob/main/images/food-demand-header2.png)
 #### Executive summary
-Our objective was to predict the number of orders for different meals using various machine learning models. After evaluating several models, we found that the Neural Network performed the best with a Validation RMSLE of 0.528 and a Test RMSLE of 0.532, indicating it generalizes well to unseen data.
+Our objective was to predict the number of orders for different meals using various machine learning models. Our predictive model identified three critical features that most significantly influence food demand: `center_type_week_count`, `checkout_price`, and `region_week_count`. The importance of these features was confirmed through both SHAP and permutation importance analyses. By focusing on these features, businesses can implement targeted strategies to optimize operations, pricing, and marketing efforts. These data-driven decisions will enhance operational efficiency, meet consumer demand more effectively, and drive overall business growth.
 
 
 #### Rationale
@@ -39,8 +39,8 @@ Here is a sample of the data used for the analysis:
 4. Permutation Importance: Analyzing feature importance to understand the key drivers of meal orders.
 
 #### Results
-The Neural Network model outperformed other models in terms of Validation RMSLE, as shown below.
-![Model Comparison: Validation RMSLE](https://github.com/tildahh/food-demand-forecasting/blob/main/images/validation_rmsle.png)
+After evaluating several models, we found that the Neural Network performed the best with a Validation RMSLE of 0.528 and a Test RMSLE of 0.532, indicating it generalizes well to unseen data.
+![Model Performance](https://github.com/tildahh/food-demand-forecasting/blob/main/images/model_performance_metrics.png)
 
 ##### Feature Importance Analysis
 Both the SHAP and Permutation Importance plots highlight `center_type_week_count`, `checkout_price`, and `region_week_count` as the key features. SHAP values give detailed insights into how these features impact individual predictions, while Permutation Importance shows their essential role in keeping the model accurate. Together, these analyses provide a clear understanding of which features are most important and how they affect the predictions.
