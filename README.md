@@ -25,12 +25,12 @@ The dataset used in this analysis includes:
 
 Here is a sample of the data used for the analysis:
 
-| Week   | Checkout Price | Base Price | Discount | Discount Percent | Email Promo | Homepage Featured | Meal ID | Meal Category | Cuisine    | City | Region | Center | Center Type | Op Area | Num Orders |
-|--------|----------------|------------|----------|------------------|-------------|-------------------|---------|---------------|------------|------|--------|--------|-------------|---------|------------|
-| 88     | 485.03         | 680.03     | 195.0    | 28.675206        | 0           | 0                 | 1962    | Pizza         | Continental| 596  | 71     | 99     | TYPE_A      | 4.5     | 270        |
-| 67     | 484.03         | 485.03     | 1.0      | 0.206173         | 0           | 0                 | 2304    | Desert        | Indian     | 590  | 56     | 153    | TYPE_A      | 3.9     | 53         |
-| 108    | 185.30         | 185.30     | 0.0      | 0.000000         | 0           | 0                 | 2707    | Beverages     | Italian    | 675  | 34     | 106    | TYPE_A      | 4.0     | 445        |
-| 100    | 292.03         | 291.03     | 0.0      | 0.000000         | 0           | 0                 | 1525    | Other Snacks  | Thai       | 556  | 77     | 50     | TYPE_A      | 4.8     | 256        |
+| Week   | Checkout Price | Base Price | Discount | Email Promo | Homepage Featured | Meal ID | Meal Category | Cuisine    | City | Region | Center | Center Type | Op Area | Num Orders |
+|--------|----------------|------------|----------|-------------|-------------------|---------|---------------|------------|------|--------|--------|-------------|---------|------------|
+| 88     | 485.03         | 680.03     | 195.0    | 0           | 0                 | 1962    | Pizza         | Continental| 596  | 71     | 99     | TYPE_A      | 4.5     | 270        |
+| 67     | 484.03         | 485.03     | 1.0      | 0           | 0                 | 2304    | Desert        | Indian     | 590  | 56     | 153    | TYPE_A      | 3.9     | 53         |
+| 108    | 185.30         | 185.30     | 0.0      | 0           | 0                 | 2707    | Beverages     | Italian    | 675  | 34     | 106    | TYPE_A      | 4.0     | 445        |
+| 100    | 292.03         | 291.03     | 0.0      | 0           | 0                 | 1525    | Other Snacks  | Thai       | 556  | 77     | 50     | TYPE_A      | 4.8     | 256        |
 
 #### Methodology
 1. Data Preprocessing: Cleaning and preparing the data for modeling, including feature engineering of new temporal features and handling categorical variables.
