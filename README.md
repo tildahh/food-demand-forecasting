@@ -1,7 +1,7 @@
 ### Food Demand Forecasting
 
 **Sara Orona**
-
+![Header](https://github.com/tildahh/food-demand-forecasting/blob/main/images/food-demand-header2.png)
 #### Executive summary
 Our objective was to predict the number of orders for different meals using various machine learning models. After evaluating several models, we found that the Neural Network performed the best with a Validation RMSLE of 0.528 and a Test RMSLE of 0.532, indicating it generalizes well to unseen data.
 
