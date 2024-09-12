@@ -23,7 +23,7 @@ The dataset used in this analysis includes:
 * Meal attributes includes category, cuisine, and pricing
 * Promotional data such as email promotions and homepage features
 
-Here is a sample of the data used for the analysis:
+Sample of the data used for the analysis:
 
 | Week   | Checkout Price | Base Price | Email Promo | Homepage Featured | Meal ID | Meal Category | Cuisine    | City | Region | Center | Center Type | Op Area | Num Orders |
 |--------|----------------|------------|-------------|-------------------|---------|---------------|------------|------|--------|--------|-------------|---------|------------|
@@ -32,7 +32,8 @@ Here is a sample of the data used for the analysis:
 | 108    | 185.30         | 185.30     | 0           | 0                 | 2707    | Beverages     | Italian    | 675  | 34     | 106    | TYPE_A      | 4.0     | 445        |
 | 100    | 292.03         | 291.03     | 0           | 0                 | 1525    | Other Snacks  | Thai       | 556  | 77     | 50     | TYPE_A      | 4.8     | 256        |
 
-**Customer Preferences by Region and Cuisine**: This plot shows the average orders for different cuisines across various regions.
+**Customer Preferences by Region and Cuisine**: 
+The average order count by cuisine in each of the eight different regions.
 ![Customer Preferences by Region and Cuisine](https://github.com/tildahh/food-demand-forecasting/blob/main/images/pref-by-region-and-cuisine.png)
 
 #### Methodology
