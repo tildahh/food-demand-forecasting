@@ -3,7 +3,7 @@
 **Sara Orona**
 ![Header](https://github.com/tildahh/food-demand-forecasting/blob/main/images/food-demand-header2.png)
 #### Executive summary
-Forecast order quantity for eight food distribution centers with independent offerings using various Machine Learning models. A Neural Network was the best performing model and it identified three critical features that significantly influenced food demand: `center_type_week_count`, `checkout_price`, and `region_week_count`. By leveraging these insights, the distribution centers can implement targeted strategies to optimize operations, pricing, and marketing efforts. These data-driven decisions will enhance operational efficiency, meet consumer demand more effectively, and drive overall business growth.
+Forecast order quantity for eight food distribution centers with independent offerings using various Machine Learning models. A Neural Network was the best performing model and it identified three critical features that significantly influenced food demand: `center_type_week_count`, `checkout_price`, and `region_week_count`. By leveraging these insights, the distribution centers can implement targeted strategies to optimize operations and inventory, pricing, and marketing efforts. These data-driven decisions will enhance operational efficiency, meet consumer demand more effectively, and drive overall business growth.
 
 
 #### Rationale
