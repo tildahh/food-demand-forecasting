@@ -102,4 +102,4 @@ Based on the model's insights, we recommend the following actions:
 
 ##### Contact and Further Information
 - Email: sara.orona@outlook.com
-- ([LinkedIn](https://www.linkedin.com/in/sara-orona/))
+- [LinkedIn](https://www.linkedin.com/in/sara-orona/)
