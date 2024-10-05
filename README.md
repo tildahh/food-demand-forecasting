@@ -32,10 +32,6 @@ Sample of the data used for the analysis:
 | 108    | 185.30         | 185.30     | 0           | 0                 | 2707    | Beverages     | Italian    | 675  | 34     | 106    | TYPE_A      | 4.0     | 445        |
 | 100    | 292.03         | 291.03     | 0           | 0                 | 1525    | Other Snacks  | Thai       | 556  | 77     | 50     | TYPE_A      | 4.8     | 256        |
 
-**Customer Preferences by Region and Cuisine**: 
-The average order count by cuisine in each of the eight different regions.
-![Customer Preferences by Region and Cuisine](https://github.com/tildahh/food-demand-forecasting/blob/main/images/pref-by-region-and-cuisine.png)
-
 #### Methodology
 1. Data Preprocessing: Cleaning and preparing the data for modeling, including feature engineering of new temporal features and handling categorical variables.
 2. Model Training and Validation: Splitting the data into training, validation, and test sets. Evaluating multiple machine learning models using RMSLE as the performance metric.
@@ -48,6 +44,9 @@ The average order count by cuisine in each of the eight different regions.
 ![Categories](https://github.com/tildahh/food-demand-forecasting/blob/main/images/center_type_counts.png)
 ![Categories](https://github.com/tildahh/food-demand-forecasting/blob/main/images/operational_area_by_center_type.png)
 ![Categories](https://github.com/tildahh/food-demand-forecasting/blob/main/images/region_city_counts.png)
+**Customer Preferences by Region and Cuisine**
+The average order count by cuisine in each of the eight different regions.
+![Customer Preferences by Region and Cuisine](https://github.com/tildahh/food-demand-forecasting/blob/main/images/pref-by-region-and-cuisine.png)
 
 
 #### Results
