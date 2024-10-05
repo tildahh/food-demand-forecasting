@@ -43,11 +43,11 @@ The average order count by cuisine in each of the eight different regions.
 4. Permutation Importance: Analyzing feature importance to understand the key drivers of meal orders.
 
 #### EDA
-!(https://github.com/tildahh/food-demand-forecasting/blob/main/images/cuisine_category_counts.png)
-!(https://github.com/tildahh/food-demand-forecasting/blob/main/images/number_of_meals_by_category.png)
-!(https://github.com/tildahh/food-demand-forecasting/blob/main/images/center_type_counts.png)
-!(https://github.com/tildahh/food-demand-forecasting/blob/main/images/operational_area_by_center_type.png)
-!(https://github.com/tildahh/food-demand-forecasting/blob/main/images/region_city_counts.png)
+![Categories](https://github.com/tildahh/food-demand-forecasting/blob/main/images/cuisine_category_counts.png)
+![Categories](https://github.com/tildahh/food-demand-forecasting/blob/main/images/number_of_meals_by_category.png)
+![Categories](https://github.com/tildahh/food-demand-forecasting/blob/main/images/center_type_counts.png)
+![Categories](https://github.com/tildahh/food-demand-forecasting/blob/main/images/operational_area_by_center_type.png)
+![Categories](https://github.com/tildahh/food-demand-forecasting/blob/main/images/region_city_counts.png)
 
 
 #### Results
