@@ -44,8 +44,6 @@ Sample of the data used for the analysis:
 ![Categories](https://github.com/tildahh/food-demand-forecasting/blob/main/images/center_type_counts.png)
 ![Categories](https://github.com/tildahh/food-demand-forecasting/blob/main/images/operational_area_by_center_type.png)
 ![Categories](https://github.com/tildahh/food-demand-forecasting/blob/main/images/region_city_counts.png)
-**Customer Preferences by Region and Cuisine**
-The average order count by cuisine in each of the eight different regions.
 ![Customer Preferences by Region and Cuisine](https://github.com/tildahh/food-demand-forecasting/blob/main/images/pref-by-region-and-cuisine.png)
 
 
