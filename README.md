@@ -42,6 +42,14 @@ The average order count by cuisine in each of the eight different regions.
 3. Hyperparameter Tuning: Using RandomizedSearchCV for hyperparameter tuning to optimize model performance.
 4. Permutation Importance: Analyzing feature importance to understand the key drivers of meal orders.
 
+#### EDA
+!(https://github.com/tildahh/food-demand-forecasting/blob/main/images/cuisine_category_counts.png)
+!(https://github.com/tildahh/food-demand-forecasting/blob/main/images/number_of_meals_by_category.png)
+!(https://github.com/tildahh/food-demand-forecasting/blob/main/images/center_type_counts.png)
+!(https://github.com/tildahh/food-demand-forecasting/blob/main/images/operational_area_by_center_type.png)
+!(https://github.com/tildahh/food-demand-forecasting/blob/main/images/region_city_counts.png)
+
+
 #### Results
 After evaluating several models, we found that the Neural Network performed the best with a Validation RMSLE of 0.528 and a Test RMSLE of 0.532, indicating it generalizes well to unseen data.
 ![Model Performance](https://github.com/tildahh/food-demand-forecasting/blob/main/images/model_performance_metrics.png)
